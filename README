@@ -1,1 +1,11 @@
-Hello world
+This is my attempt at making my own simple A* pathfinding in Unity.
+Currently the scripts depend on several Unity things, so it will probably not work out of the box.
+Some things that work so far:
+- Creating a grid in the Unity editor.
+- Requesting a path between 2 nodes.
+- Generating a path with manhattan-distance
+
+TODO:
+- Fix the Euclidean distance path method.
+- Remove debug code.
+- Remove some references, so the project serves a more general purpose.
